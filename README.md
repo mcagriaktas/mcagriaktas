@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hellow, I'm Çağrı (Cagri)<br><br>I'm working on currently Data Engineering process like "Data Cleaning,<br>ML Modeling with PySpark, ETL process, Docker.   
+Hellow, I'm Çağrı (Cagri)<br><br>I'm working on currently Data Engineering process like "Data processing,<br> PySpark, Pandas, ETL process, Docker.   
 
 
 ## 🌐 Socials:
