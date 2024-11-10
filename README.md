@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello, I'm Çağrı (Cagri) 👋<br><br>
-I'm currently working on Data Engineering processes like "Data processing", using tools and technologies such as Python, Apache Spark, Apache Airflow, PostgreSQL, Kafka, Hadoop, MongoDB, Docker, and Kubernetes. (I'm a newbie with Scala 😄)
+I'm currently working on Data Engineering processes like "Data processing", using tools and technologies...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-çağrı-aktaş-6998a3216)
