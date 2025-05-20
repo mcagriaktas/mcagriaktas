@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello, I'm Çağrı (Cagri) 👋<br><br>
-I'm currently working on Data Engineering processes like "Data processing", using tools and technologies...
+I'm currently working on Data Engineering/Platform Engineering processes like "Data processing/Data Automation", using tools and technologies...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-çağrı-aktaş-6998a3216)
