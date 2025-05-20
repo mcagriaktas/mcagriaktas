@@ -3,7 +3,7 @@ Hello, I'm Çağrı (Cagri) 👋<br><br>
 I'm currently working on Data Engineering processes like "Data processing", using tools and technologies...
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-çağrı-aktaş-6998a3216)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-çağrı-aktaş-6998a3216)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mucagriaktas)
 
 # 💻 Tech Stack:
