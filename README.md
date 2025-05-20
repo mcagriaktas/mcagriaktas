@@ -5,7 +5,6 @@ I'm currently working on Data Engineering processes like "Data processing", usin
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-çağrı-aktaş-6998a3216)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mucagriaktas)
-[![Website](https://img.shields.io/badge/personal_website-3670A0?style=for-the-badge&logo=web&logoColor=ffdd54)](https://mucagriaktas.com/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
